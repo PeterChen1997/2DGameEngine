@@ -1,0 +1,36 @@
+body {
+	
+}
+.nav-tabs > li > a {
+	color: rgb(22, 141, 228); background-color: rgb(238, 238, 238);
+}
+.dropdown-menu {
+	overflow: hidden; -ms-overflow-y: auto; max-height: 400px;
+}
+.nav .breadcrumb {
+	margin: 0px; float: left;
+}
+.panel-heading .accordion-toggle::after {
+	margin: 0px 8px; color: grey; font-family: "Glyphicons Halflings"; float: left; content: "\e114";
+}
+.panel-heading .accordion-toggle.collapsed::after {
+	content: "\e080";
+}
+.panel-heading .accordion-toggle {
+	text-decoration: none;
+}
+.panel-heading .accordion-toggle.collapsed {
+	text-decoration: none;
+}
+.icon-flipped {
+	transform: scaleX(-1); -webkit-transform: scaleX(-1); -moz-transform: scaleX(-1);
+}
+.help-block-WithNoLineBreak {
+	color: rgb(115, 115, 115); display: inline;
+}
+.panel-group .panel {
+	overflow: visible;
+}
+.rowBlank {
+	height: 10px; background-color: rgb(255, 255, 255);
+}

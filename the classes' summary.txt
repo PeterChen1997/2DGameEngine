@@ -1,0 +1,29 @@
+* Software Edge
+  * prototype
+    * concept
+    * depoit
+    * organize
+      * filetexture
+      * abstraction
+   * iteration
+
+* Engine:fold
+  * graphics
+  * core, base
+  * loop,keyboard,ResourceMap
+  * Behaviour + utilition
+    * interpulate
+    * shake
+    * camera control
+    * collsion,per pixel
+  * physics
+  * illumination		 
+
+
+* philosophy
+* culture
+  * interactivity
+  * sage environment
+
+* why + question the Knowledge
+

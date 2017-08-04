@@ -1,0 +1,38 @@
+Group5:
+is it so diffcult?
+what is your suggestion about this game?function?props?
+control?UI?
+loading time
+
+feedback:
+it is a little diffcult for us to play
+the wine can add more HP
+enemy is so strong
+
+1.难易程度 
+2.是否需要更多敌人种类
+3.交互方面有什么建议（UI 操作）
+4.有什么功能和道具可以添加
+
+
+Group 8
+	
+Group7
+每次开始都要选人
+小的不够灵活
+选择人物的时候键位不统一
+灵活的人物需要
+
+看拍的问题
+
+Group 3
+自动跳转
+无敌时间的标示
+终点标示
+
+Group 2
+按键使用传统按键 
+Group 9
+特效加强
+增加人物
+时间

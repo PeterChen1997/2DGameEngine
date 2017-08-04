@@ -1,0 +1,92 @@
+* Teacher name:Kelvin Sung(宋贤清)
+* Graduated from: Wisconsio.
+* Disciplined
+
+* Game engine
+  * Unity3D
+  * use engine to build games
+  * tool - code componded
+  * library 
+
+* GPU
+  * trangles
+  * line
+  * points
+
+  * vertex processor - vertex shader 3times
+    * define varibles
+  * Fragment processor - fragment shader 160,000times
+    * 
+
+
+* question
+  * what is the PPT 12 "double clear"
+  * 
+
+* homework
+  * detail to read 
+
+
+* The World Coordinate (WC) System
+* Normalized Device Coordinate (NDC)
+
+* Order of calling
+  * Constructer
+  * load
+  * Initialize
+  * draw/update
+  * unload
+ 
+
+
+* Sketch the world
+  * How to win/lose/get points
+  * why is this fan
+* hreo
+* enemy
+  * defeat behavior
+  * special behavior
+* Background 
+
+
+
+* 塔防
+* 四关
+* 指定时间收集物品
+
+* 1、
+	内容：探险闯关
+	情节：单人操作两人森林冒险（各种不同地形）
+	故事线：穿过大森林，有危险，没食物就要GG
+	规则：完成小游戏到达指定地点，并且要保持食物充足，一人控制两人，通过特殊的道具或地形来创造条件
+满足过关要求。（黄金矿工（河边钓鱼），塔防（防守？？），反向药水（酒））
+	满足某种需求：满足探险需求，紧张刺激，玩法新奇
+	目标：四关（四个小游戏，可以减少，平均一关1分钟ss  ）
+	玩家感受：新奇的玩法，游戏中玩游戏，冒险成功却没有什么奖励233
+
+
+
+
+* 2、
+	内容：贪吃蛇类型（球球大作战）// 泡泡堂
+	情节：//
+	故事线：//
+	规则：围起来，吃掉a
+	满足某种需求：刺激
+	目标：吃掉对方+ AI
+	玩家感受：
+
+* 3、
+	内容：探索冒险
+	情节：通关，寻找东西
+	故事线：闯关
+	规则：寻找，时间限制
+	满足某种需求：探索
+	目标：
+	玩家感受：0
+
+
+
+
+
+
